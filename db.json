@@ -1,34 +1,19 @@
 {
   "students": [
     {
-      "name": "John Doe",
-      "admissionNumber": "2023A001",
+      "name": "argo",
+      "admissionNumber": "1234",
       "id": 1
     },
     {
-      "name": "anupama",
-      "admissionNumber": "e3r5t5tg",
+      "name": "John Doe",
+      "admissionNumber": "1234",
       "id": 2
     },
     {
-      "name": "anupama",
-      "admissionNumber": "e3r5t5tg",
-      "id": 3
-    },
-    {
-      "name": "tyeurt",
-      "admissionNumber": "e3r5t5tg",
+      "name": "rino",
+      "admissionNumber": "20002",
       "id": 4
-    },
-    {
-      "name": "ANUPAMA K",
-      "admissionNumber": "1222333",
-      "id": 5
-    },
-    {
-      "name": "mmfgmmfm",
-      "admissionNumber": "46788967",
-      "id": 6
     }
   ]
 }
