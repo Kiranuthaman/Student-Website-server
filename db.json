@@ -6,39 +6,65 @@
       "id": 1
     },
     {
-      "name": "John Doe",
-      "admissionNumber": "1234",
-      "id": 2
-    },
-    {
-      "name": "rino",
-      "admissionNumber": "20002",
-      "id": 4
-    },
-    {
       "name": "kiran",
       "admissionNumber": "2001",
       "id": 5
+    },
+    {
+      "name": "leo",
+      "admissionNumber": "1234",
+      "Details": "",
+      "id": 6
+    },
+    {
+      "name": "rino",
+      "admissionNumber": "2002",
+      "Details": "",
+      "id": 7
+    },
+    {
+      "name": "nandhu",
+      "admissionNumber": "100",
+      "Details": "",
+      "id": 8
     }
   ],
   "Details": [
     {
-      "name": "rino",
-      "email": "kiranuthaman2016@gmail.com",
-      "phone": "8078765930",
+      "name": "leo",
+      "email": "",
+      "phone": "",
       "address": "",
       "guardianName": "",
-      "admission": "",
+      "admission": "1234",
       "id": 1
     },
     {
-      "name": "argo",
+      "name": "kiran",
       "email": "kiranuthaman85@gmail.com",
       "phone": "8078765930",
+      "address": "123 Main St, Cityville",
+      "guardianName": "sda",
+      "admission": "2001",
+      "id": 2
+    },
+    {
+      "name": "rino",
+      "email": "kira",
+      "phone": "8078765930",
+      "address": "ajsdsfdsjfdsbjf",
+      "guardianName": "sda",
+      "admission": "2002",
+      "id": 3
+    },
+    {
+      "name": "nandhu",
+      "email": "kiranuthaman2016@gmail.com",
+      "phone": "984844",
       "address": "",
       "guardianName": "",
-      "admission": "",
-      "id": 2
+      "admission": "100",
+      "id": 4
     }
   ],
   "Admindata": [
