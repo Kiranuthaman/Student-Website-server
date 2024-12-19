@@ -14,6 +14,49 @@
       "name": "rino",
       "admissionNumber": "20002",
       "id": 4
+    },
+    {
+      "name": "kiran",
+      "admissionNumber": "2001",
+      "id": 5
     }
+  ],
+  "Details": [
+    {
+      "name": "rino",
+      "email": "kiranuthaman2016@gmail.com",
+      "phone": "8078765930",
+      "address": "",
+      "guardianName": "",
+      "admission": "",
+      "id": 1
+    },
+    {
+      "name": "argo",
+      "email": "kiranuthaman85@gmail.com",
+      "phone": "8078765930",
+      "address": "",
+      "guardianName": "",
+      "admission": "",
+      "id": 2
+    }
+  ],
+  "Admindata": [
+    [
+      {
+        "id": 1,
+        "class": "Class C",
+        "rollNumber": "287",
+        "whatsappLink": "23kjewn",
+        "classroomLink": "fdsf"
+      },
+      {
+        "id": 2,
+        "class": "Class C",
+        "rollNumber": "sdfsdf",
+        "whatsappLink": "sdfsddf",
+        "classroomLink": "sdfsf"
+      }
+    ]
   ]
 }
