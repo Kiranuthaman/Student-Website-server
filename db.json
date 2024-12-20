@@ -27,27 +27,21 @@
       "admissionNumber": "100",
       "Details": "",
       "id": 8
+    },
+    {
+      "name": "devu",
+      "admissionNumber": "200",
+      "Details": "",
+      "id": 9
+    },
+    {
+      "name": "akshay",
+      "admissionNumber": "2000",
+      "Details": "",
+      "id": 10
     }
   ],
   "Details": [
-    {
-      "name": "leo",
-      "email": "",
-      "phone": "",
-      "address": "",
-      "guardianName": "",
-      "admission": "1234",
-      "id": 1
-    },
-    {
-      "name": "kiran",
-      "email": "kiranuthaman85@gmail.com",
-      "phone": "8078765930",
-      "address": "123 Main St, Cityville",
-      "guardianName": "sda",
-      "admission": "2001",
-      "id": 2
-    },
     {
       "name": "rino",
       "email": "kira",
@@ -65,24 +59,46 @@
       "guardianName": "",
       "admission": "100",
       "id": 4
+    },
+    {
+      "name": "kiran",
+      "email": "kiranuthaman85@gmail.com",
+      "phone": "8078765930",
+      "address": "123 Main St, Cityville",
+      "guardianName": "fxgdfg",
+      "admission": "2001",
+      "id": 5
+    },
+    {
+      "name": "leo",
+      "email": "",
+      "phone": "",
+      "address": "",
+      "guardianName": "",
+      "admission": "1234",
+      "id": 6
+    },
+    {
+      "name": "devu",
+      "email": "",
+      "phone": "",
+      "address": "",
+      "guardianName": "",
+      "admission": "200",
+      "id": 7
+    },
+    {
+      "name": "akshay",
+      "email": "",
+      "phone": "",
+      "address": "",
+      "guardianName": "",
+      "admission": "2000",
+      "id": 8
     }
   ],
   "Admindata": [
-    [
-      {
-        "id": 1,
-        "class": "Class C",
-        "rollNumber": "287",
-        "whatsappLink": "23kjewn",
-        "classroomLink": "fdsf"
-      },
-      {
-        "id": 2,
-        "class": "Class C",
-        "rollNumber": "sdfsdf",
-        "whatsappLink": "sdfsddf",
-        "classroomLink": "sdfsf"
-      }
-    ]
+    
+      
   ]
 }
